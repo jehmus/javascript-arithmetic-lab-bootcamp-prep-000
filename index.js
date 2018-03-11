@@ -29,4 +29,7 @@ function makeInt(n) {
   
 }
 
-function 
+function preserveDecimal(n) {
+  return parseFloat(n)
+}
+
